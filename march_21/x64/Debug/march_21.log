@@ -1,0 +1,4 @@
+﻿  march_21.cpp
+P:\Студенты\П22\python\Dunin\c++\march_21\march_21\march_21.cpp(51,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+P:\Студенты\П22\python\Dunin\c++\march_21\march_21\march_21.cpp(95,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  march_21.vcxproj -> P:\Студенты\П22\python\Dunin\c++\march_21\x64\Debug\march_21.exe
