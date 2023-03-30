@@ -1,0 +1,4 @@
+﻿  march_21.cpp
+Z:\Desktop\programs\march_21-master\march_21\march_21.cpp(95,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка Z:\Desktop\programs\march_21-master\x64\Debug\march_21.exe при последней инкрементной компоновке; выполняется полная компоновка
+  march_21.vcxproj -> Z:\Desktop\programs\march_21-master\x64\Debug\march_21.exe
